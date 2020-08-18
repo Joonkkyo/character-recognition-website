@@ -5,6 +5,10 @@ simple website for recognition of digit and Korean words
 ## 서버 실행
 <pre><code>python server.py</code></pre>
 
+## 손글씨 입력
 <img src="./img/input1.JPG" alt="logo" width="40%" height="30%" />
+<img src="./img/input2.JPG" alt="logo" width="40%" height="30%" />
 
-
+## 결과
+<img src="./img/result1.JPG" alt="logo" width="40%" height="30%" />
+<img src="./img/result2.JPG" alt="logo" width="40%" height="30%" />
