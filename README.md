@@ -5,4 +5,4 @@ simple website for recognition of digit and Korean words
 ## 서버 실행
 <pre><code>python server.py</code></pre>
 
-<img src="C:\Users\user\Desktop\숫자1.jpg" width="40%" height="30%"></img>
+<img src="./img/.png" alt="logo" width="40%" height="30%" />
