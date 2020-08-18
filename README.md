@@ -6,3 +6,5 @@ simple website for recognition of digit and Korean words
 <pre><code>python server.py</code></pre>
 
 <img src="./img/input1.JPG" alt="logo" width="40%" height="30%" />
+
+
